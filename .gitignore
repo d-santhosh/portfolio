@@ -1,2 +1,5 @@
-# OS files
+# Ignore personal details file
+details.md
 .details.md
+login.html
+
